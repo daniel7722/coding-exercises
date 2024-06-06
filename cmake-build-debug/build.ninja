@@ -61,6 +61,12 @@ build CMakeFiles/coding_exercises.dir/Dynamic-Programming/longest_increasing_sub
   OBJECT_DIR = CMakeFiles/coding_exercises.dir
   OBJECT_FILE_DIR = CMakeFiles/coding_exercises.dir/Dynamic-Programming
 
+build CMakeFiles/coding_exercises.dir/Dynamic-Programming/longest_common_subsequence.cpp.o: CXX_COMPILER__coding_exercises_unscanned_Debug /Users/danielhuang/Course/coding-exercises/Dynamic-Programming/longest_common_subsequence.cpp || cmake_object_order_depends_target_coding_exercises
+  DEP_FILE = CMakeFiles/coding_exercises.dir/Dynamic-Programming/longest_common_subsequence.cpp.o.d
+  FLAGS = -g -std=gnu++14 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk -fcolor-diagnostics
+  OBJECT_DIR = CMakeFiles/coding_exercises.dir
+  OBJECT_FILE_DIR = CMakeFiles/coding_exercises.dir/Dynamic-Programming
+
 
 # =============================================================================
 # Link build statements for EXECUTABLE target coding_exercises
@@ -69,7 +75,7 @@ build CMakeFiles/coding_exercises.dir/Dynamic-Programming/longest_increasing_sub
 #############################################
 # Link the executable coding_exercises
 
-build coding_exercises: CXX_EXECUTABLE_LINKER__coding_exercises_Debug CMakeFiles/coding_exercises.dir/Algorithm/sorting.cpp.o CMakeFiles/coding_exercises.dir/Dynamic-Programming/longest_increasing_subsequence.cpp.o
+build coding_exercises: CXX_EXECUTABLE_LINKER__coding_exercises_Debug CMakeFiles/coding_exercises.dir/Algorithm/sorting.cpp.o CMakeFiles/coding_exercises.dir/Dynamic-Programming/longest_increasing_subsequence.cpp.o CMakeFiles/coding_exercises.dir/Dynamic-Programming/longest_common_subsequence.cpp.o
   FLAGS = -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk
   OBJECT_DIR = CMakeFiles/coding_exercises.dir
   POST_BUILD = :

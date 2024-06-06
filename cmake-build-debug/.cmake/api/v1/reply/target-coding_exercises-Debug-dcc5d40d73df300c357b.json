@@ -50,7 +50,8 @@
 			"sourceIndexes" : 
 			[
 				0,
-				1
+				1,
+				2
 			]
 		}
 	],
@@ -84,13 +85,7 @@
 			"sourceIndexes" : 
 			[
 				0,
-				1
-			]
-		},
-		{
-			"name" : "Header Files",
-			"sourceIndexes" : 
-			[
+				1,
 				2
 			]
 		}
@@ -111,8 +106,9 @@
 		},
 		{
 			"backtrace" : 1,
-			"path" : "Dynamic-Programming/longest_increasing_subsequence.h",
-			"sourceGroupIndex" : 1
+			"compileGroupIndex" : 0,
+			"path" : "Dynamic-Programming/longest_common_subsequence.cpp",
+			"sourceGroupIndex" : 0
 		}
 	],
 	"type" : "EXECUTABLE"
