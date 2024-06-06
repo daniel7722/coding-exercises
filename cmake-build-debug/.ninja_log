@@ -1,6 +1,5 @@
 # ninja log v6
-655	767	1717668189813656678	coding_exercises	1f2db42767f5ef6d
-1	59	1717674189416595863	build.ninja	ded4e47e126e7dab
+710	848	1717674577734447670	coding_exercises	76465f7eeccb9c39
+1	59	1717684508279361648	build.ninja	ded4e47e126e7dab
 4	655	1717668189162572796	CMakeFiles/coding_exercises.dir/delete/quicksort.cpp.o	a2f41b22188880bb
 2	708	1717674577026046932	CMakeFiles/coding_exercises.dir/Algorithm/sorting.cpp.o	f12f287168c6257a
-710	848	1717674577734447670	coding_exercises	76465f7eeccb9c39
