@@ -7,4 +7,5 @@ add_executable(coding_exercises
         Algorithm/sorting.cpp
         Dynamic-Programming/longest_increasing_subsequence.cpp
         Dynamic-Programming/longest_common_subsequence.cpp
+        Trie/replace_word.cpp
 )
