@@ -8,4 +8,5 @@ add_executable(coding_exercises
         Dynamic-Programming/longest_increasing_subsequence.cpp
         Dynamic-Programming/longest_common_subsequence.cpp
         Trie/replace_word.cpp
+        Array-and-Hashing/continuous_subarray_sum.cpp
 )
