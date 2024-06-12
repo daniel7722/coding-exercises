@@ -10,4 +10,5 @@ add_executable(coding_exercises
         Trie/replace_word.cpp
         Array-and-Hashing/continuous_subarray_sum.cpp
         Array-and-Hashing/relative_sort_array.cpp
+        Two-Pointers/sort_colors.cpp
 )
