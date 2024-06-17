@@ -39,7 +39,7 @@
 				{
 					"directoryIndex" : 0,
 					"id" : "coding_exercises::@6890427a1f51a3e7e1df",
-					"jsonFile" : "target-coding_exercises-Debug-384f3d4f77f641efef5b.json",
+					"jsonFile" : "target-coding_exercises-Debug-e86132c184c966e6791b.json",
 					"name" : "coding_exercises",
 					"projectIndex" : 0
 				}
@@ -49,12 +49,12 @@
 	"kind" : "codemodel",
 	"paths" : 
 	{
-		"build" : "/Users/danielhuang/Course/coding-exercises/cmake-build-debug",
+		"build" : "/Users/danielhuang/Course/coding-exercises/build",
 		"source" : "/Users/danielhuang/Course/coding-exercises"
 	},
 	"version" : 
 	{
 		"major" : 2,
-		"minor" : 6
+		"minor" : 7
 	}
 }

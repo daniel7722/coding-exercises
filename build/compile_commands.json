@@ -1,0 +1,50 @@
+[
+{
+  "directory": "/Users/danielhuang/Course/coding-exercises/build",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/c++ -g -std=gnu++14 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk -o CMakeFiles/coding_exercises.dir/Algorithm/sorting.cpp.o -c /Users/danielhuang/Course/coding-exercises/Algorithm/sorting.cpp",
+  "file": "/Users/danielhuang/Course/coding-exercises/Algorithm/sorting.cpp",
+  "output": "CMakeFiles/coding_exercises.dir/Algorithm/sorting.cpp.o"
+},
+{
+  "directory": "/Users/danielhuang/Course/coding-exercises/build",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/c++ -g -std=gnu++14 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk -o CMakeFiles/coding_exercises.dir/Dynamic-Programming/longest_increasing_subsequence.cpp.o -c /Users/danielhuang/Course/coding-exercises/Dynamic-Programming/longest_increasing_subsequence.cpp",
+  "file": "/Users/danielhuang/Course/coding-exercises/Dynamic-Programming/longest_increasing_subsequence.cpp",
+  "output": "CMakeFiles/coding_exercises.dir/Dynamic-Programming/longest_increasing_subsequence.cpp.o"
+},
+{
+  "directory": "/Users/danielhuang/Course/coding-exercises/build",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/c++ -g -std=gnu++14 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk -o CMakeFiles/coding_exercises.dir/Dynamic-Programming/longest_common_subsequence.cpp.o -c /Users/danielhuang/Course/coding-exercises/Dynamic-Programming/longest_common_subsequence.cpp",
+  "file": "/Users/danielhuang/Course/coding-exercises/Dynamic-Programming/longest_common_subsequence.cpp",
+  "output": "CMakeFiles/coding_exercises.dir/Dynamic-Programming/longest_common_subsequence.cpp.o"
+},
+{
+  "directory": "/Users/danielhuang/Course/coding-exercises/build",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/c++ -g -std=gnu++14 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk -o CMakeFiles/coding_exercises.dir/Trie/replace_word.cpp.o -c /Users/danielhuang/Course/coding-exercises/Trie/replace_word.cpp",
+  "file": "/Users/danielhuang/Course/coding-exercises/Trie/replace_word.cpp",
+  "output": "CMakeFiles/coding_exercises.dir/Trie/replace_word.cpp.o"
+},
+{
+  "directory": "/Users/danielhuang/Course/coding-exercises/build",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/c++ -g -std=gnu++14 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk -o CMakeFiles/coding_exercises.dir/Array-and-Hashing/continuous_subarray_sum.cpp.o -c /Users/danielhuang/Course/coding-exercises/Array-and-Hashing/continuous_subarray_sum.cpp",
+  "file": "/Users/danielhuang/Course/coding-exercises/Array-and-Hashing/continuous_subarray_sum.cpp",
+  "output": "CMakeFiles/coding_exercises.dir/Array-and-Hashing/continuous_subarray_sum.cpp.o"
+},
+{
+  "directory": "/Users/danielhuang/Course/coding-exercises/build",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/c++ -g -std=gnu++14 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk -o CMakeFiles/coding_exercises.dir/Array-and-Hashing/relative_sort_array.cpp.o -c /Users/danielhuang/Course/coding-exercises/Array-and-Hashing/relative_sort_array.cpp",
+  "file": "/Users/danielhuang/Course/coding-exercises/Array-and-Hashing/relative_sort_array.cpp",
+  "output": "CMakeFiles/coding_exercises.dir/Array-and-Hashing/relative_sort_array.cpp.o"
+},
+{
+  "directory": "/Users/danielhuang/Course/coding-exercises/build",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/c++ -g -std=gnu++14 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk -o CMakeFiles/coding_exercises.dir/Two-Pointers/sort_colors.cpp.o -c /Users/danielhuang/Course/coding-exercises/Two-Pointers/sort_colors.cpp",
+  "file": "/Users/danielhuang/Course/coding-exercises/Two-Pointers/sort_colors.cpp",
+  "output": "CMakeFiles/coding_exercises.dir/Two-Pointers/sort_colors.cpp.o"
+},
+{
+  "directory": "/Users/danielhuang/Course/coding-exercises/build",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/c++ -g -std=gnu++14 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk -o CMakeFiles/coding_exercises.dir/Array-and-Hashing/minimum_number_of_moves_to_seat_everyone.cpp.o -c /Users/danielhuang/Course/coding-exercises/Array-and-Hashing/minimum_number_of_moves_to_seat_everyone.cpp",
+  "file": "/Users/danielhuang/Course/coding-exercises/Array-and-Hashing/minimum_number_of_moves_to_seat_everyone.cpp",
+  "output": "CMakeFiles/coding_exercises.dir/Array-and-Hashing/minimum_number_of_moves_to_seat_everyone.cpp.o"
+}
+]

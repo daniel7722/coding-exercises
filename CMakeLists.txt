@@ -12,4 +12,5 @@ add_executable(coding_exercises
         Array-and-Hashing/relative_sort_array.cpp
         Two-Pointers/sort_colors.cpp
         Array-and-Hashing/minimum_number_of_moves_to_seat_everyone.cpp
+        Two-Pointers/sum_of_square_number.cpp
 )
